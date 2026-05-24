@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/Users/mathistoppan/CLionProjects/Solver1D_Euler_SOD-MKII/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/Users/mathistoppan/CLionProjects/Solver1D_Euler_SOD-MKII/src -g -arch arm64 -fcolor-diagnostics -o CMakeFiles/Solver1D_Euler_SOD_MKII.dir/src/Cellule.cpp.o -c /Users/mathistoppan/CLionProjects/Solver1D_Euler_SOD-MKII/src/Cellule.cpp",
+  "file": "/Users/mathistoppan/CLionProjects/Solver1D_Euler_SOD-MKII/src/Cellule.cpp",
+  "output": "/Users/mathistoppan/CLionProjects/Solver1D_Euler_SOD-MKII/cmake-build-debug/CMakeFiles/Solver1D_Euler_SOD_MKII.dir/src/Cellule.cpp.o"
+},
+{
+  "directory": "/Users/mathistoppan/CLionProjects/Solver1D_Euler_SOD-MKII/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/Users/mathistoppan/CLionProjects/Solver1D_Euler_SOD-MKII/src -g -arch arm64 -fcolor-diagnostics -o CMakeFiles/Solver1D_Euler_SOD_MKII.dir/src/Domaine.cpp.o -c /Users/mathistoppan/CLionProjects/Solver1D_Euler_SOD-MKII/src/Domaine.cpp",
+  "file": "/Users/mathistoppan/CLionProjects/Solver1D_Euler_SOD-MKII/src/Domaine.cpp",
+  "output": "/Users/mathistoppan/CLionProjects/Solver1D_Euler_SOD-MKII/cmake-build-debug/CMakeFiles/Solver1D_Euler_SOD_MKII.dir/src/Domaine.cpp.o"
+},
+{
+  "directory": "/Users/mathistoppan/CLionProjects/Solver1D_Euler_SOD-MKII/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/Users/mathistoppan/CLionProjects/Solver1D_Euler_SOD-MKII/src -g -arch arm64 -fcolor-diagnostics -o CMakeFiles/Solver1D_Euler_SOD_MKII.dir/src/NumericalSchemes.cpp.o -c /Users/mathistoppan/CLionProjects/Solver1D_Euler_SOD-MKII/src/NumericalSchemes.cpp",
+  "file": "/Users/mathistoppan/CLionProjects/Solver1D_Euler_SOD-MKII/src/NumericalSchemes.cpp",
+  "output": "/Users/mathistoppan/CLionProjects/Solver1D_Euler_SOD-MKII/cmake-build-debug/CMakeFiles/Solver1D_Euler_SOD_MKII.dir/src/NumericalSchemes.cpp.o"
+},
+{
+  "directory": "/Users/mathistoppan/CLionProjects/Solver1D_Euler_SOD-MKII/cmake-build-debug",
+  "command": "/usr/bin/c++ -I/Users/mathistoppan/CLionProjects/Solver1D_Euler_SOD-MKII/src -g -arch arm64 -fcolor-diagnostics -o CMakeFiles/Solver1D_Euler_SOD_MKII.dir/main.cpp.o -c /Users/mathistoppan/CLionProjects/Solver1D_Euler_SOD-MKII/main.cpp",
+  "file": "/Users/mathistoppan/CLionProjects/Solver1D_Euler_SOD-MKII/main.cpp",
+  "output": "/Users/mathistoppan/CLionProjects/Solver1D_Euler_SOD-MKII/cmake-build-debug/CMakeFiles/Solver1D_Euler_SOD_MKII.dir/main.cpp.o"
+}
+]

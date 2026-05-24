@@ -1,0 +1,3 @@
+/Users/mathistoppan/CLionProjects/Solver1D_Euler_SOD-MKII/cmake-build-debug/CMakeFiles/Solver1D_Euler_SOD_MKII.dir
+/Users/mathistoppan/CLionProjects/Solver1D_Euler_SOD-MKII/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mathistoppan/CLionProjects/Solver1D_Euler_SOD-MKII/cmake-build-debug/CMakeFiles/rebuild_cache.dir
