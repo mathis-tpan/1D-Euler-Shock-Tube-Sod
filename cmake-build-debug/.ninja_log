@@ -1,8 +1,0 @@
-# ninja log v7
-1	42	1779662376277650950	build.ninja	9c2b72324d9f8fa0
-1	42	1779662376277650950	/Users/mathistoppan/CLionProjects/Solver1D_Euler_SOD-MKII/cmake-build-debug/cmake_install.cmake	9c2b72324d9f8fa0
-0	39	1779662376282979176	CMakeFiles/Solver1D_Euler_SOD_MKII.dir/src/Cellule.cpp.o	dfe3db595b2d212d
-1	119	1779662376283287005	CMakeFiles/Solver1D_Euler_SOD_MKII.dir/src/NumericalSchemes.cpp.o	bb3f3ecb2b830e6a
-1	180	1779662376283411171	CMakeFiles/Solver1D_Euler_SOD_MKII.dir/main.cpp.o	500474a9777b010f
-1	238	1779662376283174049	CMakeFiles/Solver1D_Euler_SOD_MKII.dir/src/Domaine.cpp.o	5c9e88ff56a54743
-239	266	1779662376521095635	Solver1D_Euler_SOD_MKII	9cf4c3dd671b0b6f
