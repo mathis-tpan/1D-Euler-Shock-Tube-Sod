@@ -3,7 +3,7 @@
 # 1D Euler Shock Tube Solver — Sod Problem
 
 ## Motivation
-This project is a self-initiated, ground-up implementation of a 1D compressible Euler solver in C++, developed during summer 2025 as an introduction to scientific computing and numerical methods in CFD. The Sod shock tube was chosen as the reference test case because it admits an exact analytical solution — making rigorous numerical validation possible — while capturing the three key wave structures of compressible flows: rarefaction fan, contact discontinuity, and shock wave. This solver is the first step of a longer roadmap toward reacting flow simulations, targeting a research internship at the von Karman Institute (VKI) in 2026.
+This project is a self-initiated, ground-up implementation of a 1D compressible Euler solver in C++, developed during spring 2026 as an introduction to scientific computing and numerical methods in CFD. The Sod shock tube was chosen as the reference test case because it admits an exact analytical solution — making rigorous numerical validation possible — while capturing the three key wave structures of compressible flows: rarefaction fan, contact discontinuity, and shock wave. This solver is the first step of a longer roadmap toward reacting flow simulations, targeting a research internship at the von Karman Institute (VKI) in 2026.
 
 ## Physics
 
