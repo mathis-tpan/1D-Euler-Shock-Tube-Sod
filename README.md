@@ -29,7 +29,7 @@ The solver is implemented in C++17 following a modular architecture:
 
 ## Results
 
-![Validation](validation.png)
+![Validation](Validation.png)
 
 The numerical solution shows good agreement with the exact analytical
 solution across all three wave structures — rarefaction fan, contact
@@ -66,6 +66,7 @@ which introduces numerical diffusion near sharp gradients.
 
 ## Project Structure
 
+```
 ├── src/
 │   ├── main.cpp
 │   ├── StateVector.h
@@ -75,3 +76,4 @@ which introduces numerical diffusion near sharp gradients.
 ├── validation.py
 ├── validation.png
 └── README.md
+```
