@@ -3,7 +3,13 @@
 # 1D Euler Shock Tube Solver — Sod Problem
 
 ## Motivation
-This project is a self-initiated, ground-up implementation of a 1D compressible Euler solver in C++, developed during spring 2026 as an introduction to scientific computing and numerical methods in CFD. The Sod shock tube was chosen as the reference test case because it admits an exact analytical solution — making rigorous numerical validation possible — while capturing the three key wave structures of compressible flows: rarefaction fan, contact discontinuity, and shock wave. This solver is the first step of a longer roadmap toward reacting flow simulations, targeting a research internship at the von Karman Institute (VKI) in 2026.
+This project is a self-initiated, implementation of a 1D compressible Euler solver in C++, developed during spring 2026 as an introduction to scientific computing and numerical methods in CFD. The Sod shock tube was chosen as the reference test case because it admits an exact analytical solution - making rigorous numerical validation possible - while capturing the three key wave structures of compressible flows: rarefaction fan, contact discontinuity, and shock wave.
+
+## Development workflow
+
+Numerical method selection, test case and validation criteria were chosen
+by me. The C++ implementation was written with AI assistance (debugging,
+code structure).
 
 ## Physics
 
@@ -49,7 +55,6 @@ which introduces numerical diffusion near sharp gradients.
   resolution than Rusanov
 - **2D extension** — structured mesh, split-dimensional approach
 - **Reacting flows** — chemical kinetics and thermodynamics
-  (target: VKI internship on reacting flows, 2026)
 - **Viscosity** — transition toward full Navier-Stokes,
   eventual integration with OpenFOAM
 
